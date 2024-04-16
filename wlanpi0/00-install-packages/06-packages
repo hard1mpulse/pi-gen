@@ -23,5 +23,5 @@ cockpit-storaged
 # In development
 #wlanpi-core
 
-# No longer supported
-#wiperf
+No longer supported
+wiperf
